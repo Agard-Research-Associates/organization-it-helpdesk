@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node (if using clasp)
+node_modules/
+package-lock.json
+
+# clasp config (contains script ID, should not be shared)
+.clasp.json
